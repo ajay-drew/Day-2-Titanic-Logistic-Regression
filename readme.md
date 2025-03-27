@@ -16,7 +16,7 @@ An intermediate-level logistic regression implementation using scikit-learn to p
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-regression.git
+   git clone https://github.com/ajay-drew/titanic-survival-regression.git
    cd titanic-survival-regression
    ```
 
